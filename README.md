@@ -52,5 +52,3 @@ For selected KPIs, the workflow calculates a robust score using the median and m
 - Production use would require seasonality-aware, facility-specific baselines and human review.
 - The optional Claude integration sends the summarized KPI payload to Anthropic; review data-handling requirements before sending real business data.
 
-## Resume wording
-Only claim live Claude integration after configuring the API key and successfully running the optional mode. Otherwise describe the AI integration as optional.
